@@ -1,5 +1,9 @@
 language: node_js
 node_js:
   - "6.1"
-before_install: npm install -g grunt
+before_install:
+  - sudo npm install -g grunt
+  - sudo npm install -g grunt-cli
+  - sudo npm install -g qunit
+  - sudo npm install -g grunt-contrib-qunit
 script: grunt test --verbose --force
