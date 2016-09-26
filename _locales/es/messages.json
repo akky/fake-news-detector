@@ -1,0 +1,11 @@
+{
+    "ext_name": {
+        "message": "Fake News Detector"
+    },
+    "ext_desc": {
+         "message": "Notifies you if the current website is a known fake news provider."
+    },
+    "this_is_a_fake_news_site": {
+        "message": "Es un sitio de noticias falsas."
+    }
+}

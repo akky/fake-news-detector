@@ -1,0 +1,11 @@
+{
+    "ext_name": {
+        "message": "嘘ニュース発見ツール"
+    },
+    "ext_desc": {
+         "message": "閲覧中のサイトが既知の嘘ニュースであれば警告します。"
+    },
+    "this_is_a_fake_news_site": {
+         "message": "これは嘘ニュースサイトです"
+    }
+}
