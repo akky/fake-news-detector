@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/akky/fake-news-detector.svg?branch=master)](https://travis-ci.org/akky/fake-news-detector)
+
 # fake-news-detector
 
 [Fake News Detector](https://chrome.google.com/webstore/detail/fake-news-detector/pejpjcimkbhajilhoacpgdadhhohfjdc) is a Chrome Extension to notify you if the page belongs to a fake/satirical news site
