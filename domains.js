@@ -43,6 +43,6 @@ var domains = [
     'detarame.dreamlog.jp',
     'fueiku.cocolog-nifty.com',
     'fiction-news.jimdo.com',
-    'http://news4ktla.com/',
+    'news4ktla.com',
     'animemaru.com'
 ];
